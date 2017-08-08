@@ -1,0 +1,86 @@
+/*body { 
+
+background-image: url('../images/Gradient.gif');
+background-repeat: repeat-x;
+background-color: #1E51A3;
+color: #000000;
+margin: 0px;
+padding: 20px;
+text-align: center
+}*/
+
+a {
+color:#000000;
+font-weight:normal;
+text-decoration:none;
+}
+
+a:hover {
+color:#0000ff;
+text-decoration:none;
+}
+
+.title {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 42px;
+	font-weight: bold;
+	color: #000000;
+	/* background:url('../images/header.png') top center no-repeat; */
+	padding:30px 0;
+}
+
+.subtitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
+
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+}
+
+.powered {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+}
+
+.general {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+}
+
+.general_center {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
+.small {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
+.chmod-button {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
